@@ -50,7 +50,6 @@ Um Jogo da Velha desenvolvido com HTML, CSS e JavaScript puro, totalmente respon
 ✔️ Tabuleiro interativo 3x3
 
 ✔️ Controles fáceis de usar
-
 ## 🛠️ Tecnologias
 - HTML5 → Estrutura semântica para melhor acessibilidade
 - CSS3 → Design responsivo e animações
