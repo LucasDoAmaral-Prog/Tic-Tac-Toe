@@ -30,7 +30,7 @@ A **Tic Tac Toe Game** developed using **HTML, CSS, and Vanilla JavaScript**, fu
 ## 📌 How to Use  
 1. Clone the repository:  
 ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/LucasDoAmaral-Prog/tic-tac-toe.git
 ```
 2. Open the index.html file in your browser
 3. Choose your player ("X" or "O") and start playing!
@@ -60,7 +60,7 @@ www.jogo-da-velha.com
 ## 📌 Como Usar
 1. Clone o repositório:
 ```bash
-   git clone https://github.com/seu-usuario/tic-tac-toe.git
+   git clone https://github.com/LucasDoAmaral-Prog/tic-tac-toe.git
 ```
 2. Abra o arquivo index.html no seu navegador
 3. Escolha seu jogador ("X" ou "O") e comece a jogar!
