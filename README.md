@@ -25,7 +25,7 @@ A **Tic Tac Toe Game** developed using **HTML, CSS, and Vanilla JavaScript**, fu
 - **JavaScript (Vanilla JS)** → Core game functionality  
 
 ## 📸 Demos  
-[www.tic-tac-toe-game.com](https://your-website.com/tic-tac-toe)
+[www.tic-tac-toe-game.com](https://lucasdoamaral-prog.github.io/Tic-Tac-Toe/)
 
 ## 📌 How to Use  
 1. Clone the repository:  
