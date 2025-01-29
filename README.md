@@ -1,35 +1,67 @@
+# 🏆 Tic Tac Toe Game 🎮
 
-<div class="apresentation">
+## 🌍 English | 🇧🇷 Português
 
-  <h1> Tic Tac Toe </h1>
-  <img src="https://media.discordapp.net/attachments/734474542218477639/920814497516638288/TicTacToe.png?width=1202&height=676"> 
-  <br>
-  
-  
-  <ul><li><h2>Page</h2></li>
-  <li>&nbsp<a href="https://voltzwrld.github.io/Tic-Tac-Toe/">Game TicTacToe</a>
-   </ul>
-  
-  <br>
-  
-  <ul><li><h2>What is the role of this project?</li></h2>
-  <li><p>I made a fun game in order to train my logical thinking.</p></li></ul>
-  <br>
-  
-  <ul><li><h2>Tools used</h2></li>
-  <li><img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"></li>
-  <li><img src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"></li>
-  <li><img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><br></li>
-  </ul>
+### 🇺🇸 English
 
-  <br>
-  
+A **Tic Tac Toe Game** developed using **HTML, CSS, and Vanilla JavaScript**, fully responsive, optimized for both mobile and desktop experiences.
 
-  <ul><li><h2>Available resources</h2></li>
-  <li>Has responsiveness</li><br>
-  <li>There is a dash, which determines the winning symbol;</li><br>
-  <li>There is a scoreboard, scoring the player's winning numbers;</li><br>
-  <li>You can choose between the symbols;</li>
-  </ul>
+## 🚀 Features  
+✔️ Responsive interface optimized for all devices  
 
-</div>
+✔️ Player can choose "X" or "O" before starting  
+
+✔️ Scoreboard to track wins  
+
+✔️ Animations for win and tie ("draw")  
+
+✔️ Interactive 3x3 game board  
+
+✔️ Easy-to-use controls  
+
+## 🛠️ Technologies  
+- **HTML5** → Semantic structure for better accessibility  
+- **CSS3** → Responsive design and animations  
+- **JavaScript (Vanilla JS)** → Core game functionality  
+
+## 📸 Demos  
+[www.tic-tac-toe-game.com](https://your-website.com/tic-tac-toe)
+
+## 📌 How to Use  
+1. Clone the repository:  
+```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
+```
+2. Open the index.html file in your browser
+3. Choose your player ("X" or "O") and start playing!
+
+### 🇧🇷 Português
+Um Jogo da Velha desenvolvido com HTML, CSS e JavaScript puro, totalmente responsivo e otimizado tanto para dispositivos móveis quanto para desktop.
+
+## 🚀 Funcionalidades
+✔️ Interface responsiva otimizada para todos os dispositivos
+
+✔️ O jogador pode escolher entre "X" ou "O" antes de começar
+
+✔️ Placar para acompanhar as vitórias
+
+✔️ Animações para vitória e empate ("velha")
+
+✔️ Tabuleiro interativo 3x3
+
+✔️ Controles fáceis de usar
+
+## 🛠️ Tecnologias
+- HTML5 → Estrutura semântica para melhor acessibilidade
+- CSS3 → Design responsivo e animações
+- JavaScript (Vanilla JS) → Funcionalidade principal do jogo
+📸 Demo
+www.jogo-da-velha.com
+
+## 📌 Como Usar
+1. Clone o repositório:
+```bash
+   git clone https://github.com/seu-usuario/tic-tac-toe.git
+```
+2. Abra o arquivo index.html no seu navegador
+3. Escolha seu jogador ("X" ou "O") e comece a jogar!
